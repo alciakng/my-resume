@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Business Analytics
+  uni: 고려대학교
+  year: 2025 &mdash; 2026
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: GPA 4.42/4.5 
+  summary: 통계기본 · 데이터사이언스 방법론 학습 / 산학협력 캡스톤프로젝트 수행 (LG-CNS)
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Computer Science
+  uni: 서울시립대학교 
+  year: 2010 &mdash; 2016
+  award: GPA 3.89/4.5
