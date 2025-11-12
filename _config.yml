@@ -23,7 +23,7 @@ resume_contact_telephone:       "010)6730-4938"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<ul>• 경험분야 : 데이터 엔지니어링 · 웹 플랫폼개발 · 전자서명 · 데이터 사이언스 · RAG(LLM)</li></ul>"
+resume_header_intro: "<p>• 경험분야 : 데이터 엔지니어링 · 웹 플랫폼개발 · 전자서명 · 데이터 사이언스 · RAG(LLM)</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
