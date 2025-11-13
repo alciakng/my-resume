@@ -1,12 +1,13 @@
 # Degree
-- degree: Business Analytics
+- degree: Business Analytics / 석사
   uni: 고려대학교
-  year: 2025 &mdash; 2026
+  year: 2025.03 &mdash; 2026.03
   awards:
-    - award: GPA 4.42/4.5 
-  summary: 통계기본 · 데이터사이언스 방법론 학습 / 산학협력 캡스톤프로젝트 수행 (LG-CNS)
+    - award: GPA 4.42/4.5 - 성적우수
+  summary: Business 데이터 분석을 위한 통계학 / 머신러닝 / AI 방법론 학습<br>산학협력 캡스톤 프로젝트 수행
 
-- degree: Computer Science
-  uni: 서울시립대학교 
-  year: 2010 &mdash; 2016
-  award: GPA 3.89/4.5
+- degree: Computer Science / 학사
+  uni: 서울시립대학교
+  year: 2010.03 &mdash; 2016.03
+  awards:
+    - award: GPA 3.89/4.5
