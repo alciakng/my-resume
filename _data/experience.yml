@@ -3,7 +3,7 @@
 - company: LG-CNS 프로세스 마이닝 AI-Agent 개발
   position: 산학협력 프로젝트
   duration: 2025.07 &mdash; 현재
-  summary: <ul class="resume-item-list"><li>비지니스 프로세스 다이어그램(BPMN) 기반 질의-응답(RAG) 수행 Agent 개발 (BPMN-RAG)</li><li>BPMN to GraphDB 변환적재 라이브러리 개발 (bpmn2neo)</li></ul>
+  summary: <ul class="resume-item-list"><li>비지니스 프로세스 다이어그램(BPMN) 기반 질의-응답(RAG) 수행 Agent 개발 (<a href="https://github.com/alciakng/BPMN-RAG" target="_blank">BPMN-RAG</a>)</li><li>BPMN to GraphDB 변환적재 라이브러리 개발 (<a href="https://github.com/alciakng/bpmn2neo" target="_blank">bpmn2neo</a>)</li></ul>
 
 # 금융위원회 D-테스트베드
 - company: 금융위원회 D-테스트베드
@@ -21,7 +21,7 @@
 - company: 신용보증기금 전자약정 고도화 및 비대면 업무 플랫폼 개발
   position: 플랫폼 개발
   duration: 2022.01 &mdash; 2024.08
-  summary: <ul class="resume-item-list"><li>공동 대표이사 / 각자 대표이사 전자약정 개발</li><li>전자서명 결과 검증 배치 파이프라인 개발 (Based Signed-Pdf-Info-Viewer)</li><li>보증 / 보험 / 컨설팅 / 스타트업 등 비대면 업무 플랫폼 개발</li></ul>
+  summary: <ul class="resume-item-list"><li>공동 대표이사 / 각자 대표이사 전자약정 개발</li><li>전자서명 결과 검증 배치 파이프라인 개발 (Based <a href="https://github.com/alciakng/Signed-Pdf-Info-Viewer" target="_blank">Signed-Pdf-Info-Viewer</a>)</li><li>보증 / 보험 / 컨설팅 / 스타트업 등 비대면 업무 플랫폼 개발</li></ul>
 
 # 신용보증기금 HR 시스템 개발
 - company: 신용보증기금 HR 시스템 개발
